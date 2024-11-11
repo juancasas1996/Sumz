@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+hyperopt
+shap
+statsmodels
+streamlit
+scikeras
+nbformat
